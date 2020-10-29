@@ -44,3 +44,10 @@
     npm run start
     ```
 
+  - LogIn use username
+  - Specify a room name
+  - JOIN
+
+  - if u use the another browser to test the app
+  - please enter the same room name above
+
